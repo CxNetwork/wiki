@@ -1,0 +1,4 @@
+- Cx
+  - [Home](#)
+- Characters
+  - [Ice Poseidon](characters/ice_poseidon.md)
