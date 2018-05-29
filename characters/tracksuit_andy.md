@@ -1,8 +1,9 @@
 # Tracksuit Andy
 
 ## Meta
-CxID: `tracksuit_andy`    
-Birthplace: London   
+CxID: `tracksuit_andy`
+Birthday: ???
+Birthplace: London
 
 ## Introduction
 Tracksuit Andy is an ongoing character in the Cx Network, known for always keeping a great attitude and never falling into the hate train.
