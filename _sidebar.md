@@ -2,3 +2,4 @@
   - [Home](#)
 - Characters
   - [Ice Poseidon](characters/ice_poseidon.md)
+  - [Tracksuit Andy](characters/tracksuit_andy.md)
