@@ -5,3 +5,5 @@
   - [Tracksuit Andy](characters/tracksuit_andy.md)
 - Memes
   - [TriHard](memes/TriHard.md)
+- Management Team
+  - [Jacob](management/jacob.md)

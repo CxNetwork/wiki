@@ -2,10 +2,9 @@
 
 ## Meta
 CxID: `ice_poseidon`  
-Real Name: Paul Denino  
 Birthday: September 29, 1994  
 Birthplace: Florida  
-Other names: scumbag weasel  
+Other names: Paul Denino, scumbag weasel  
 
 ## Introduction
 Paul "Ice Poseidon" Denino is the founder and owner of the Cx Network and Cx, LLC. Paul used to stream on Twitch, but after getting banned from Twitch in early 2017, he moved over to YouTube gaming - his Twitch channel of the same name had over 290,000 followers before getting banned.  
@@ -16,4 +15,4 @@ He initially gained fame from his RuneScape livestreams. His first streams invol
 Paul started gaining most of his fame outside of the RuneScape section on Twitch, in the IRL section for being one of the first streamers to adopt the huge mobile game Pokemon GO and starting the IRL streaming craze. These were usually solo streams, where Paul would talk to random people on the street and not really play the game. Although IRL streaming on Twitch was popular, it wasn't "normalized content". Twitch openly opposed and and banned people from streaming IRL content until the Pokemon GO era, where people would use Pokemon GO as their excuse to IRL stream. Twitch later established the IRL section after many popular streamers started IRL streaming.
 
 ## The Purple Army
-The Purple Army gets its name from his RuneScape clanchat's name appearing as purple dots on the RS minimap.
+The Purple Army gets its name from his RuneScape clanchat's name appearing as purple dots on the RS minimap. 

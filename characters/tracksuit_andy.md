@@ -1,8 +1,8 @@
 # Tracksuit Andy
 
 ## Meta
-CxID: `tracksuit_andy`
-Birthday: ???
+CxID: `tracksuit_andy`  
+Birthday: ???  
 Birthplace: London
 
 ## Introduction
